@@ -1,4 +1,1 @@
-TUGAS JAVA FX
-Nama  : Ages Mahesa
-NPM   : 2017051027
-Kelas : C
+TUGAS JAVA FX - Ages Mahesa - 2017051027 - C
